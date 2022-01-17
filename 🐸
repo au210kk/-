@@ -1,0 +1,370 @@
+proxies:
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生, server: 159.75.50.77, port: 40099, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 2, server: 159.75.50.77, port: 40098, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 3, server: 159.75.50.77, port: 40097, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 4, server: 159.75.50.77, port: 40096, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 5, server: 159.75.50.77, port: 40095, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 6, server: 159.75.50.77, port: 40094, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 7, server: 159.75.50.77, port: 40093, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 8, server: 159.75.50.77, port: 40092, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 9, server: 159.75.50.77, port: 40091, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 10, server: 159.75.50.77, port: 40090, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 11, server: 159.75.50.77, port: 40089, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 49, server: 159.75.50.77, port: 40051, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 50, server: 159.75.50.77, port: 40050, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 335, server: 42.193.120.172, port: 40565, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 336, server: 42.193.120.172, port: 40564, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 337, server: 42.193.120.172, port: 40563, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 338, server: 42.193.120.172, port: 40562, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 v1|香港|B|9台负载|原生 339, server: 42.193.120.172, port: 40561, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 13, server: 159.75.50.77, port: 40087, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 14, server: 159.75.50.77, port: 40086, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 15, server: 159.75.50.77, port: 40085, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 16, server: 159.75.50.77, port: 40084, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 17, server: 159.75.50.77, port: 40083, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 18, server: 159.75.50.77, port: 40082, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 19, server: 159.75.50.77, port: 40081, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 20, server: 159.75.50.77, port: 40080, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 21, server: 159.75.50.77, port: 40079, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 22, server: 159.75.50.77, port: 40078, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 23, server: 159.75.50.77, port: 40077, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 24, server: 159.75.50.77, port: 40076, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|A|混合负载|外贸主力 25, server: 159.75.50.77, port: 40075, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 12, server: 159.75.50.77, port: 40088, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 26, server: 159.75.50.77, port: 40074, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 27, server: 159.75.50.77, port: 40073, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 28, server: 159.75.50.77, port: 40072, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 29, server: 159.75.50.77, port: 40071, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 30, server: 159.75.50.77, port: 40070, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 31, server: 159.75.50.77, port: 40069, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 32, server: 159.75.50.77, port: 40068, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 33, server: 159.75.50.77, port: 40067, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 34, server: 159.75.50.77, port: 40066, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 35, server: 159.75.50.77, port: 40065, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|稳定 36, server: 159.75.50.77, port: 40064, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 37, server: 159.75.50.77, port: 40063, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 38, server: 159.75.50.77, port: 40062, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 39, server: 159.75.50.77, port: 40061, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 40, server: 159.75.50.77, port: 40060, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 41, server: 159.75.50.77, port: 40059, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 42, server: 159.75.50.77, port: 40058, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 43, server: 159.75.50.77, port: 40057, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 44, server: 159.75.50.77, port: 40056, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 45, server: 159.75.50.77, port: 40055, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 46, server: 159.75.50.77, port: 40054, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 47, server: 159.75.50.77, port: 40053, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|12台负载 48, server: 159.75.50.77, port: 40052, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 52, server: 159.75.50.77, port: 40048, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 53, server: 159.75.50.77, port: 40047, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 54, server: 159.75.50.77, port: 40046, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 55, server: 159.75.50.77, port: 40045, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 56, server: 159.75.50.77, port: 40044, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 57, server: 159.75.50.77, port: 40043, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 58, server: 159.75.50.77, port: 40042, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 59, server: 159.75.50.77, port: 40041, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 60, server: 159.75.50.77, port: 40040, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 61, server: 159.75.50.77, port: 40039, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 62, server: 159.75.50.77, port: 40038, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 63, server: 159.75.50.77, port: 40037, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|A|5台负载 64, server: 159.75.50.77, port: 40036, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 69, server: 159.75.50.77, port: 40031, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 70, server: 159.75.50.77, port: 40030, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 71, server: 159.75.50.77, port: 40029, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 72, server: 159.75.50.77, port: 40028, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 73, server: 159.75.50.77, port: 40027, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 74, server: 159.75.50.77, port: 40026, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 75, server: 159.75.50.77, port: 40025, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 76, server: 159.75.50.77, port: 40024, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 77, server: 159.75.50.77, port: 40023, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇦🇺 v1|澳洲|C|3台负载 78, server: 159.75.50.77, port: 40022, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 51, server: 159.75.50.77, port: 40049, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 65, server: 159.75.50.77, port: 40035, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 66, server: 159.75.50.77, port: 40034, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 67, server: 159.75.50.77, port: 40033, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 68, server: 159.75.50.77, port: 40032, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 79, server: 159.75.50.77, port: 40021, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 80, server: 159.75.50.77, port: 40020, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 81, server: 159.75.50.77, port: 40019, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 82, server: 159.75.50.77, port: 40018, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 83, server: 159.75.50.77, port: 40017, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 84, server: 159.75.50.77, port: 40016, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 85, server: 159.75.50.77, port: 40015, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 86, server: 159.75.50.77, port: 40014, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇮🇳 v1|印度|D|7台负载 87, server: 159.75.50.77, port: 40013, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 90, server: 159.75.50.77, port: 40010, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 91, server: 159.75.50.77, port: 40009, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 92, server: 159.75.50.77, port: 40008, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 93, server: 159.75.50.77, port: 40007, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 94, server: 159.75.50.77, port: 40006, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 95, server: 159.75.50.77, port: 40005, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 96, server: 159.75.50.77, port: 40004, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 97, server: 159.75.50.77, port: 40003, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 98, server: 159.75.50.77, port: 40002, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🌏 v1|亚洲|B|混合负载|低延主力 99, server: 159.75.50.77, port: 40001, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 88, server: 159.75.50.77, port: 40012, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 89, server: 159.75.50.77, port: 40011, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 100, server: 159.75.50.77, port: 40000, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 101, server: 1.14.165.96, port: 40299, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 102, server: 1.14.165.96, port: 40298, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 103, server: 1.14.165.96, port: 40297, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 104, server: 1.14.165.96, port: 40296, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 105, server: 1.14.165.96, port: 40295, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 106, server: 1.14.165.96, port: 40294, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 107, server: 1.14.165.96, port: 40293, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 108, server: 1.14.165.96, port: 40292, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 109, server: 1.14.165.96, port: 40291, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 110, server: 1.14.165.96, port: 40290, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 111, server: 1.14.165.96, port: 40289, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇩🇪 v1|欧洲|B|4台负载 112, server: 1.14.165.96, port: 40288, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 113, server: 1.14.165.96, port: 40287, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 114, server: 1.14.165.96, port: 40286, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 115, server: 1.14.165.96, port: 40285, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 116, server: 1.14.165.96, port: 40284, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 117, server: 1.14.165.96, port: 40283, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 118, server: 1.14.165.96, port: 40282, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 119, server: 1.14.165.96, port: 40281, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 120, server: 1.14.165.96, port: 40280, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 121, server: 1.14.165.96, port: 40279, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 122, server: 1.14.165.96, port: 40278, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 123, server: 1.14.165.96, port: 40277, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 124, server: 1.14.165.96, port: 40276, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 125, server: 1.14.165.96, port: 40275, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 126, server: 1.14.165.96, port: 40274, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|E|4台负载 127, server: 1.14.165.96, port: 40273, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 128, server: 1.14.165.96, port: 40272, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 129, server: 1.14.165.96, port: 40271, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 130, server: 1.14.165.96, port: 40270, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 131, server: 1.14.165.96, port: 40269, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 132, server: 1.14.165.96, port: 40268, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 133, server: 1.14.165.96, port: 40267, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 134, server: 1.14.165.96, port: 40266, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 135, server: 1.14.165.96, port: 40265, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 136, server: 1.14.165.96, port: 40264, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 137, server: 1.14.165.96, port: 40263, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 138, server: 1.14.165.96, port: 40262, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 139, server: 1.14.165.96, port: 40261, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇰🇷 v1|韩国|A|7台负载 140, server: 1.14.165.96, port: 40260, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 141, server: 1.14.165.96, port: 40259, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 142, server: 1.14.165.96, port: 40258, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 143, server: 1.14.165.96, port: 40257, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 144, server: 1.14.165.96, port: 40256, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 145, server: 1.14.165.96, port: 40255, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 146, server: 1.14.165.96, port: 40254, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 147, server: 1.14.165.96, port: 40253, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 148, server: 1.14.165.96, port: 40252, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 149, server: 1.14.165.96, port: 40251, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 150, server: 1.14.165.96, port: 40250, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 151, server: 1.14.165.96, port: 40249, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 152, server: 1.14.165.96, port: 40248, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 153, server: 1.14.165.96, port: 40247, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 154, server: 1.14.165.96, port: 40246, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 155, server: 1.14.165.96, port: 40245, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 156, server: 1.14.165.96, port: 40244, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 157, server: 1.14.165.96, port: 40243, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 158, server: 1.14.165.96, port: 40242, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 159, server: 1.14.165.96, port: 40241, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 160, server: 1.14.165.96, port: 40240, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 161, server: 1.14.165.96, port: 40239, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 162, server: 1.14.165.96, port: 40238, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 163, server: 1.14.165.96, port: 40237, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 164, server: 1.14.165.96, port: 40236, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 165, server: 1.14.165.96, port: 40235, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 166, server: 1.14.165.96, port: 40234, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 167, server: 1.14.165.96, port: 40233, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 168, server: 1.14.165.96, port: 40232, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 169, server: 1.14.165.96, port: 40231, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 170, server: 1.14.165.96, port: 40230, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 171, server: 1.14.165.96, port: 40229, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 172, server: 1.14.165.96, port: 40228, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 173, server: 1.14.165.96, port: 40227, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 174, server: 1.14.165.96, port: 40226, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 175, server: 1.14.165.96, port: 40225, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 176, server: 1.14.165.96, port: 40224, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 177, server: 1.14.165.96, port: 40223, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 178, server: 1.14.165.96, port: 40222, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 179, server: 1.14.165.96, port: 40221, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 180, server: 1.14.165.96, port: 40220, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 181, server: 1.14.165.96, port: 40219, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 182, server: 1.14.165.96, port: 40218, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 183, server: 1.14.165.96, port: 40217, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 184, server: 1.14.165.96, port: 40216, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 185, server: 1.14.165.96, port: 40215, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 186, server: 1.14.165.96, port: 40214, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 187, server: 1.14.165.96, port: 40213, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 188, server: 1.14.165.96, port: 40212, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 189, server: 1.14.165.96, port: 40211, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 190, server: 1.14.165.96, port: 40210, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 191, server: 1.14.165.96, port: 40209, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 192, server: 1.14.165.96, port: 40208, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 193, server: 1.14.165.96, port: 40207, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|8台负载|原生 194, server: 1.14.165.96, port: 40206, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 195, server: 1.14.165.96, port: 40205, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 196, server: 1.14.165.96, port: 40204, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 197, server: 1.14.165.96, port: 40203, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 198, server: 1.14.165.96, port: 40202, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 199, server: 1.14.165.96, port: 40201, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 200, server: 1.14.165.96, port: 40200, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 201, server: 106.52.33.67, port: 40399, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 202, server: 106.52.33.67, port: 40398, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 203, server: 106.52.33.67, port: 40397, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 204, server: 106.52.33.67, port: 40396, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 205, server: 106.52.33.67, port: 40395, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 206, server: 106.52.33.67, port: 40394, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 207, server: 106.52.33.67, port: 40393, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 208, server: 106.52.33.67, port: 40392, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 209, server: 106.52.33.67, port: 40391, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 210, server: 106.52.33.67, port: 40390, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 211, server: 106.52.33.67, port: 40389, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 212, server: 106.52.33.67, port: 40388, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 213, server: 106.52.33.67, port: 40387, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 214, server: 106.52.33.67, port: 40386, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 215, server: 106.52.33.67, port: 40385, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 216, server: 106.52.33.67, port: 40384, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 217, server: 106.52.33.67, port: 40383, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 218, server: 106.52.33.67, port: 40382, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 219, server: 106.52.33.67, port: 40381, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 220, server: 106.52.33.67, port: 40380, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 221, server: 106.52.33.67, port: 40379, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 222, server: 106.52.33.67, port: 40378, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 223, server: 106.52.33.67, port: 40377, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 224, server: 106.52.33.67, port: 40376, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 225, server: 106.52.33.67, port: 40375, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 226, server: 106.52.33.67, port: 40374, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 227, server: 106.52.33.67, port: 40373, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 228, server: 106.52.33.67, port: 40372, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 229, server: 106.52.33.67, port: 40371, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 230, server: 106.52.33.67, port: 40370, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 231, server: 106.52.33.67, port: 40369, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 232, server: 106.52.33.67, port: 40368, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 233, server: 106.52.33.67, port: 40367, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 234, server: 106.52.33.67, port: 40366, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 235, server: 106.52.33.67, port: 40365, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 236, server: 106.52.33.67, port: 40364, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 237, server: 106.52.33.67, port: 40363, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 238, server: 106.52.33.67, port: 40362, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 239, server: 106.52.33.67, port: 40361, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 240, server: 106.52.33.67, port: 40360, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 241, server: 106.52.33.67, port: 40359, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 242, server: 106.52.33.67, port: 40358, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 243, server: 106.52.33.67, port: 40357, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 244, server: 106.52.33.67, port: 40356, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 245, server: 106.52.33.67, port: 40355, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 246, server: 106.52.33.67, port: 40354, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 247, server: 106.52.33.67, port: 40353, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 248, server: 106.52.33.67, port: 40352, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 249, server: 106.52.33.67, port: 40351, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 250, server: 106.52.33.67, port: 40350, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 251, server: 106.52.33.67, port: 40349, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 252, server: 106.52.33.67, port: 40348, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 253, server: 106.52.33.67, port: 40347, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 254, server: 106.52.33.67, port: 40346, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 255, server: 106.52.33.67, port: 40345, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 256, server: 106.52.33.67, port: 40344, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 257, server: 106.52.33.67, port: 40343, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 258, server: 106.52.33.67, port: 40342, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 259, server: 106.52.33.67, port: 40341, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 260, server: 106.52.33.67, port: 40340, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 261, server: 106.52.33.67, port: 40339, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 262, server: 106.52.33.67, port: 40338, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 263, server: 106.52.33.67, port: 40337, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 264, server: 106.52.33.67, port: 40336, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 265, server: 106.52.33.67, port: 40335, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 266, server: 106.52.33.67, port: 40334, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 267, server: 106.52.33.67, port: 40333, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 268, server: 106.52.33.67, port: 40332, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 269, server: 106.52.33.67, port: 40331, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 270, server: 106.52.33.67, port: 40330, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 271, server: 106.52.33.67, port: 40329, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 272, server: 106.52.33.67, port: 40328, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 273, server: 106.52.33.67, port: 40327, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇸🇬 v1|新加坡|B|5台负载 274, server: 106.52.33.67, port: 40326, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 275, server: 106.52.33.67, port: 40325, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 276, server: 106.52.33.67, port: 40324, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 277, server: 106.52.33.67, port: 40323, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 278, server: 106.52.33.67, port: 40322, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 279, server: 106.52.33.67, port: 40321, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 280, server: 106.52.33.67, port: 40320, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 281, server: 106.52.33.67, port: 40319, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 282, server: 106.52.33.67, port: 40318, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 283, server: 106.52.33.67, port: 40317, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 284, server: 106.52.33.67, port: 40316, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 285, server: 106.52.33.67, port: 40315, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 286, server: 106.52.33.67, port: 40314, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 287, server: 106.52.33.67, port: 40313, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 288, server: 106.52.33.67, port: 40312, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 289, server: 106.52.33.67, port: 40311, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇨🇳 v1|台湾|C|3台负载|原生 290, server: 106.52.33.67, port: 40310, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 291, server: 106.52.33.67, port: 40309, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 292, server: 106.52.33.67, port: 40308, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 293, server: 106.52.33.67, port: 40307, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 294, server: 106.52.33.67, port: 40306, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 295, server: 106.52.33.67, port: 40305, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 296, server: 106.52.33.67, port: 40304, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 297, server: 106.52.33.67, port: 40303, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 298, server: 106.52.33.67, port: 40302, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 299, server: 106.52.33.67, port: 40301, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 300, server: 106.52.33.67, port: 40300, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 301, server: 42.193.120.172, port: 40599, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 302, server: 42.193.120.172, port: 40598, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 303, server: 42.193.120.172, port: 40597, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|B|9台负载 304, server: 42.193.120.172, port: 40596, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 305, server: 42.193.120.172, port: 40595, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 306, server: 42.193.120.172, port: 40594, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 307, server: 42.193.120.172, port: 40593, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 308, server: 42.193.120.172, port: 40592, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 309, server: 42.193.120.172, port: 40591, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 310, server: 42.193.120.172, port: 40590, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 311, server: 42.193.120.172, port: 40589, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 312, server: 42.193.120.172, port: 40588, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 313, server: 42.193.120.172, port: 40587, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 314, server: 42.193.120.172, port: 40586, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇧🇷 v1|南美|C|6台负载 315, server: 42.193.120.172, port: 40585, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 316, server: 42.193.120.172, port: 40584, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 317, server: 42.193.120.172, port: 40583, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 318, server: 42.193.120.172, port: 40582, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 319, server: 42.193.120.172, port: 40581, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 320, server: 42.193.120.172, port: 40580, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 321, server: 42.193.120.172, port: 40579, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 322, server: 42.193.120.172, port: 40578, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 323, server: 42.193.120.172, port: 40577, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 324, server: 42.193.120.172, port: 40576, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 325, server: 42.193.120.172, port: 40575, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 326, server: 42.193.120.172, port: 40574, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 327, server: 42.193.120.172, port: 40573, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 328, server: 42.193.120.172, port: 40572, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 329, server: 42.193.120.172, port: 40571, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 330, server: 42.193.120.172, port: 40570, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 331, server: 42.193.120.172, port: 40569, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 332, server: 42.193.120.172, port: 40568, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 333, server: 42.193.120.172, port: 40567, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇺🇲 v1|美国|D|4台负载 334, server: 42.193.120.172, port: 40566, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 340, server: 42.193.120.172, port: 40560, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 341, server: 42.193.120.172, port: 40559, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 342, server: 42.193.120.172, port: 40558, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 343, server: 42.193.120.172, port: 40557, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 344, server: 42.193.120.172, port: 40556, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 345, server: 42.193.120.172, port: 40555, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 346, server: 42.193.120.172, port: 40554, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 347, server: 42.193.120.172, port: 40553, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 348, server: 42.193.120.172, port: 40552, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 349, server: 42.193.120.172, port: 40551, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 350, server: 42.193.120.172, port: 40550, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 351, server: 42.193.120.172, port: 40549, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 352, server: 42.193.120.172, port: 40548, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 353, server: 42.193.120.172, port: 40547, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 354, server: 42.193.120.172, port: 40546, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 355, server: 42.193.120.172, port: 40545, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 356, server: 42.193.120.172, port: 40544, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 357, server: 42.193.120.172, port: 40543, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 358, server: 42.193.120.172, port: 40542, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 359, server: 42.193.120.172, port: 40541, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 360, server: 42.193.120.172, port: 40540, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 361, server: 42.193.120.172, port: 40539, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 362, server: 42.193.120.172, port: 40538, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 363, server: 42.193.120.172, port: 40537, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 364, server: 42.193.120.172, port: 40536, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 365, server: 42.193.120.172, port: 40535, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 366, server: 42.193.120.172, port: 40534, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 367, server: 42.193.120.172, port: 40533, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 368, server: 42.193.120.172, port: 40532, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇯🇵 v1|日本|E|3台负载|原生 369, server: 42.193.120.172, port: 40531, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
